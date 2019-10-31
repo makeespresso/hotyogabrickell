@@ -14,7 +14,7 @@ UX/UI Website Redesign
 
 
 # React Component Hierarchy
-* ** <App/>**
+* ** \<App/>**
 * \<header>
   * \<nav>
     * \<AboutUs/>
