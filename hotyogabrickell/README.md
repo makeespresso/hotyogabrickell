@@ -8,6 +8,7 @@ Website Redesign
 | :---         |     :---:      |      
 | Home  | Remove home from navbar and make the icon an att to take you to cover-img |
 | About     | Brief summary about company's purpose |
-| Instructors | Instead of teachers, create a section for each instructor. Reformat content          |     
+| Instructors | Instead of teachers, create a section for each instructor. Reformat content|
+|Classes| Include schedule and instructors, preferably create a built-in schedule using Mindandbody 3rd party API|     
 | Contact| Leave contact input field, include map and address |
 | Footer|Add social networks at the bottom| 
