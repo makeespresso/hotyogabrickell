@@ -14,13 +14,14 @@ UX/UI Website Redesign
 
 
 # React Component Hierarchy
-* <App/>
-** <header>
-* <nav>
-** <AboutUs/>
-** <Instructors/>
-** <Classes/>
-** <Workshops>/
-** <Contact/>
-** <footer/>
-*<nav/>
+* ** <App/>**
+* \<header>
+  * \<nav>
+    * \<AboutUs/>
+    * \<Instructors/>
+    * \<Classes/>
+    * \<Workshops>/
+    * \<Contact/>
+* \<footer>
+
+
