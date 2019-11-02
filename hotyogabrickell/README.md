@@ -45,11 +45,22 @@ The purpose of this project is to re-design Hot Yoga Brickell website by doing a
 * \<header>
   * \<nav>
     * \<AboutUs/>
-    * \<Instructors/>
     * \<Classes/>
-    * \<Workshops>/
+     * \<Schedule/>
+      * \<Instructors/>
+    * \<Workshops/>
+     * \<Certifications/>
     * \<Contact/>
+     * \<Location/>
 * \<footer>
+
+
+## MVP
+* Users are able to look for the classes' schedule
+* Users will be able to easily navigate through the website by finding infomation by categories
+* Users will be able to buy memberships, add it to cart and check out, with the option to still navigate on the website
+* Website re-design
+
 
 
 
