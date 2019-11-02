@@ -63,6 +63,8 @@ The purpose of this project is to re-design Hot Yoga Brickell website by doing a
 ![Hot Yoga Brickell User Flow](https://user-images.githubusercontent.com/20978259/68075229-6fccac80-fd7b-11e9-8c88-bee702a57082.png)
 
 ## WIREFRAMES
+<img width="240" alt="Screen Shot 2019-11-02 at 2 28 10 PM" src="https://user-images.githubusercontent.com/20978259/68075361-0f3e6f00-fd7d-11e9-8671-3c3593a03aa9.png">
+
 <img width="364" alt="Screen Shot 2019-11-02 at 2 21 46 PM" src="https://user-images.githubusercontent.com/20978259/68075368-0fd70580-fd7d-11e9-9595-9ea9e4eda2fc.png">
 
 <img width="364" alt="Screen Shot 2019-11-02 at 2 22 50 PM" src="https://user-images.githubusercontent.com/20978259/68075367-0fd70580-fd7d-11e9-9ffa-63a707b12def.png">
@@ -76,9 +78,6 @@ The purpose of this project is to re-design Hot Yoga Brickell website by doing a
 <img width="365" alt="Screen Shot 2019-11-02 at 2 26 16 PM" src="https://user-images.githubusercontent.com/20978259/68075363-0f3e6f00-fd7d-11e9-95e6-e0f5da001076.png">
 
 <img width="365" alt="Screen Shot 2019-11-02 at 2 27 00 PM" src="https://user-images.githubusercontent.com/20978259/68075362-0f3e6f00-fd7d-11e9-833b-52150f7892ca.png">
-
-<img width="240" alt="Screen Shot 2019-11-02 at 2 28 10 PM" src="https://user-images.githubusercontent.com/20978259/68075361-0f3e6f00-fd7d-11e9-8671-3c3593a03aa9.png">
-
 
 # React Component Hierarchy
 * **\<App />**
