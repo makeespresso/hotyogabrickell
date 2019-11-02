@@ -46,12 +46,12 @@ The purpose of this project is to re-design Hot Yoga Brickell website by doing a
   * \<nav>
     * \<AboutUs/>
     * \<Classes/>
-     * \<Schedule/>
-      * \<Instructors/>
+        * \<Schedule/>
+        * \<Instructors/>
     * \<Workshops/>
-     * \<Certifications/>
+        * \<Certifications/>
     * \<Contact/>
-     * \<Location/>
+         * \<Location/>
 * \<footer>
 
 
