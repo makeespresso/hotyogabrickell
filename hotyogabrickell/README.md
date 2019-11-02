@@ -40,6 +40,46 @@ The purpose of this project is to re-design Hot Yoga Brickell website by doing a
 | Footer|Add social networks at the bottom| 
 
 
+## MVP
+* Users are able to look for the classes' schedule
+* Users will be able to easily navigate through the website and finding infomation by categories
+* Users will be able to buy memberships, add it to cart and check out, with the option to still navigate on the website
+* Website re-design
+* Mobile first
+
+## POST-MVP
+* Utilize 3rd Party API implementation to create a dynamic schedule displaying instrutors and classes
+* Mantain and update shopping cart with merchandise
+* Users will be able to book classes online
+* Recurrent online membership payment
+* Monthly newsletter
+* Users can register an account on the site
+* Seemless UI
+
+## ERD
+
+* User task: To buy a membership
+
+![Hot Yoga Brickell User Flow](https://user-images.githubusercontent.com/20978259/68075229-6fccac80-fd7b-11e9-8c88-bee702a57082.png)
+
+## WIREFRAMES
+<img width="364" alt="Screen Shot 2019-11-02 at 2 21 46 PM" src="https://user-images.githubusercontent.com/20978259/68075368-0fd70580-fd7d-11e9-9595-9ea9e4eda2fc.png">
+
+<img width="364" alt="Screen Shot 2019-11-02 at 2 22 50 PM" src="https://user-images.githubusercontent.com/20978259/68075367-0fd70580-fd7d-11e9-9ffa-63a707b12def.png">
+
+<img width="364" alt="Screen Shot 2019-11-02 at 2 23 53 PM" src="https://user-images.githubusercontent.com/20978259/68075366-0fd70580-fd7d-11e9-9325-571c2bf15db5.png">
+
+<img width="362" alt="Screen Shot 2019-11-02 at 2 25 03 PM" src="https://user-images.githubusercontent.com/20978259/68075365-0f3e6f00-fd7d-11e9-9a48-faf10fc48e90.png">
+
+<img width="365" alt="Screen Shot 2019-11-02 at 2 25 42 PM" src="https://user-images.githubusercontent.com/20978259/68075364-0f3e6f00-fd7d-11e9-80f1-b370259a4d1c.png">
+
+<img width="365" alt="Screen Shot 2019-11-02 at 2 26 16 PM" src="https://user-images.githubusercontent.com/20978259/68075363-0f3e6f00-fd7d-11e9-95e6-e0f5da001076.png">
+
+<img width="365" alt="Screen Shot 2019-11-02 at 2 27 00 PM" src="https://user-images.githubusercontent.com/20978259/68075362-0f3e6f00-fd7d-11e9-833b-52150f7892ca.png">
+
+<img width="240" alt="Screen Shot 2019-11-02 at 2 28 10 PM" src="https://user-images.githubusercontent.com/20978259/68075361-0f3e6f00-fd7d-11e9-8671-3c3593a03aa9.png">
+
+
 # React Component Hierarchy
 * **\<App />**
 * \<header>
@@ -55,19 +95,11 @@ The purpose of this project is to re-design Hot Yoga Brickell website by doing a
 * \<footer>
 
 
-## MVP
-* Users are able to look for the classes' schedule
-* Users will be able to easily navigate through the website and finding infomation by categories
-* Users will be able to buy memberships, add it to cart and check out, with the option to still navigate on the website
-* Website re-design
-* Mobile first
 
-## POST-MVP
-* Utilize 3rd Party API implementation to create a dynamic schedule displaying instrutors and classes
-* Mantain and update shopping cart
-* Users will be able to book classes online
-* Recurrent online membership payment
-* Monthly newsletter
+
+
+
+
 
 
 
