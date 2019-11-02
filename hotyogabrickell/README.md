@@ -61,6 +61,8 @@ The purpose of this project is to re-design Hot Yoga Brickell website by doing a
 * Users will be able to buy memberships, add it to cart and check out, with the option to still navigate on the website
 * Website re-design
 
+## POST-MVP
+* Utilize 3rd Party implementation to create a dynamic schedule displaying instrutors 
 
 
 
