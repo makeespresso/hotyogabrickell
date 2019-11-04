@@ -1,5 +1,5 @@
 # HOT YOGA BRICKELL 
-UX/UI Website Redesign Case Study
+UX/UI Website Redesign
 
 ![image](https://user-images.githubusercontent.com/20978259/67951790-8b408780-fbc2-11e9-9f6d-5e43b9cc8371.png)
 
